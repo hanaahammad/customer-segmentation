@@ -4,6 +4,14 @@ This project demonstrates a complete customer segmentation workflow following th
 
 The dashboard, built with Streamlit, provides a phase-by-phase review, including data preparation, model evaluation, algorithm comparison, and a final Deployment & Monitoring plan.
 
+### 💡 Project Purpose: Engaging Business Stakeholders
+This dashboard is designed as a direct bridge between the data science team and business stakeholders. By following the structured CPMAI framework, we aim to achieve full transparency and manage expectations throughout the AI lifecycle. This ensures the resulting models meet real-world needs and are actively maintained.
+
+This guided approach is crucial because it defines the role of business users—not just as consumers of the output, but as active participants:
+
+1.  **Evaluation Intervention:**  Business users validate the model by confirming if the generated customer segments (e.g., 'Champions' vs. 'At-Risk') are actionable and align with real-world marketing strategies (CPMAI Phase 5).
+
+2.  **Monitoring Expectations:** We explicitly set the expectation that customer behavior will drift over time. This requires business users to monitor the Data Distribution Drift (CPMAI Phase 6) and provide essential context to determine when model retraining is necessary, thus ensuring the AI solution maintains its value.
 
 ## 🚀 Project Goal
 
