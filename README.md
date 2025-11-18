@@ -15,7 +15,7 @@ This guided approach is crucial because it defines the role of business users—
 
 
 
-![screenshot](imageFolder/screenshot.png)
+![screenshot](cpmai.png)
 https://view.genially.com/68d718770f6db2cb685dc64c
 
 
