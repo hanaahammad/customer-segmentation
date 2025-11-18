@@ -1,6 +1,7 @@
 # 📊 CPMAI Customer Segmentation Project: RFM & Model Evolution
 
 This project demonstrates a complete customer segmentation workflow following the six phases of the **CPMAI (Cognitive Project Management for AI)** framework. It uses K-Means clustering on **RFM (Recency, Frequency, Monetary)** features derived from an Online Retail dataset to identify distinct, actionable customer segments.
+
 The dashboard, built with Streamlit, provides a phase-by-phase review, including data preparation, model evaluation, algorithm comparison, and a final Deployment & Monitoring plan.
 
 
