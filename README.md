@@ -13,7 +13,9 @@ This guided approach is crucial because it defines the role of business users—
 
 2.  **Monitoring Expectations:** We explicitly set the expectation that customer behavior will drift over time. This requires business users to monitor the Data Distribution Drift (CPMAI Phase 6) and provide essential context to determine when model retraining is necessary, thus ensuring the AI solution maintains its value.
 
-![alt text](https://view.genially.com/68d718770f6db2cb685dc64c)
+
+
+![screenshot](imageFolder/screenshot.png)
 https://view.genially.com/68d718770f6db2cb685dc64c
 
 
