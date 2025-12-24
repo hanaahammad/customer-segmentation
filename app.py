@@ -34,7 +34,7 @@ def load_raw_data():
     """
     try:
         # NOTE: Assumes 'OnlineRetail.csv' is in the root directory
-        df = pd.read_csv('OnlineRetail.csv.gz', encoding='latin-1', compression="gzip")
+        df = pd.read_csv('OnlineRetail.csv.gz',  compression='gzip', encoding='latin-1')
         #pd.read_csv("data/data.csv.gz", compression="gzip")
         df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
         return df
@@ -254,3 +254,4 @@ if not raw_df.empty:
             st.success("The project data and models are loaded into memory.")
 
             st.markdown("**Instructions:** Please expand the sidebar (top-left ☰) to begin the guided tour through the 8 CPMAI phases.")
+
